@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amirfouda332002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style='font-size:100px;'>&#128242;>Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/amir h.fouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amir h.fouda" height="30" width="40" /></a>
 <a href="https://instagram.com/amir___h.f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir___h.f" height="30" width="40" /></a>
