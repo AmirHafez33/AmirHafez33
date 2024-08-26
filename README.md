@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amir Fouda</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate FullStack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirfouda33&label=Profile%20views&color=0e75b6&style=flat" alt="amirfouda33" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirfouda33" alt="amirfouda33" /></a> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **DataBase**
 
 - 📫 How to reach me **amirfouda332002@gmail.com**
 
