@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhafez33&label=Profile%20views&color=0e75b6&style=flat" alt="amirhafez33" /> </p>
 
-- 🌱 I’m currently learning **Mysql**
+- 🌱 I’m currently learning **php**
 
 - 📫 How to reach me **amirfouda332002@gmail.com**
 
