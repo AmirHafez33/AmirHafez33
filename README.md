@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/C-Programming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-%23ff6600.svg?style=for-the-badge&logo=oop&logoColor=white" />
 </p>
 
 ---
@@ -49,6 +50,7 @@
 - Advanced PHP frameworks  
 - API development & security  
 - Scalable backend architectures  
+- Object-Oriented Programming (OOP)  
 
 💡 **"Code is like humor. When you have to explain it, it’s bad."**  
 
